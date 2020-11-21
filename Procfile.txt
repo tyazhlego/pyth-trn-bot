@@ -1,1 +1,1 @@
-web: pythtrnbot.py
+bot: python pythtrnbot.py
